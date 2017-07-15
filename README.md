@@ -13,7 +13,7 @@ To start using our app, please do the following in your terminal:
 - python vision_script.py
 ```
 
-###
+### Organization Members and App Creators
 * James Feore – [Linked In](https://www.linkedin.com/in/jamesfeore/) | [Github](https://github.com/jjfeore) | jjfeore@gmail.com
 
 * Morgan Nomura – [Linked In](https://www.linkedin.com/in/morgan-nomura/) | [GitHub](https://github.com/morganelle?tab=overview&from=2017-01-23) | morganelle@gmail.com

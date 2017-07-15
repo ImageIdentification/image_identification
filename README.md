@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Eye-dentification
 
-You can use the [editor on GitHub](https://github.com/ImageIdentification/image_identification/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This app will allow you test photos against a vision AI and detect what is in the image. You will also be able to make query calls on images from BigQuery.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Getting started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+to get started using our app, please do the following:
 
 ```markdown
 Syntax highlighted code block

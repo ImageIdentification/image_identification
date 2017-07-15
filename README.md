@@ -5,32 +5,28 @@ This app will allow you test photos against a vision AI and detect what is in th
 
 ### Getting started
 
-to get started using our app, please do the following:
+To start using our app, please do the following in your terminal:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- git clone https://github.com/ImageIdentification/image_identification.git
+- pip install -r requirements.pip
+- python vision_script.py
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###
+* James Feore – [Linked In](https://www.linkedin.com/in/jamesfeore/) [Github](https://github.com/jjfeore) – jjfeore@gmail.com
 
-### Jekyll Themes
+* Morgan Nomura – [Linked In](https://www.linkedin.com/in/morgan-nomura/) [GitHub](https://github.com/morganelle?tab=overview&from=2017-01-23) – morganelle@gmail.com
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ImageIdentification/image_identification/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Elyanil Liranzo-Castro – [Linked In](https://www.linkedin.com/in/eliranzocastro/) [Github](https://github.com/yanil3500) – castro_email@gmail.com
 
-### Support or Contact
+* James Salamonsen – [Linked In](https://www.linkedin.com/in/james-salamonsen-12237b82/) [Github](https://github.com/Woojgh) – JamesSalamonsen@gmail.com
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### To Contribute
+```
+1. Fork it (<https://github.com/ImageIdentification/image_identification>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+```

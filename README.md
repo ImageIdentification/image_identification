@@ -14,13 +14,13 @@ To start using our app, please do the following in your terminal:
 ```
 
 ###
-* James Feore – [Linked In](https://www.linkedin.com/in/jamesfeore/) | [Github](https://github.com/jjfeore) – jjfeore@gmail.com
+* James Feore – [Linked In](https://www.linkedin.com/in/jamesfeore/) | [Github](https://github.com/jjfeore) | jjfeore@gmail.com
 
-* Morgan Nomura – [Linked In](https://www.linkedin.com/in/morgan-nomura/) | [GitHub](https://github.com/morganelle?tab=overview&from=2017-01-23) – morganelle@gmail.com
+* Morgan Nomura – [Linked In](https://www.linkedin.com/in/morgan-nomura/) | [GitHub](https://github.com/morganelle?tab=overview&from=2017-01-23) | morganelle@gmail.com
 
-* Elyanil Liranzo-Castro – [Linked In](https://www.linkedin.com/in/eliranzocastro/) | [Github](https://github.com/yanil3500) – castro_email@gmail.com
+* Elyanil Liranzo-Castro – [Linked In](https://www.linkedin.com/in/eliranzocastro/) | [Github](https://github.com/yanil3500) | castro_email@gmail.com
 
-* James Salamonsen – [Linked In](https://www.linkedin.com/in/james-salamonsen-12237b82/) | [Github](https://github.com/Woojgh) – JamesSalamonsen@gmail.com
+* James Salamonsen – [Linked In](https://www.linkedin.com/in/james-salamonsen-12237b82/) | [Github](https://github.com/Woojgh) | JamesSalamonsen@gmail.com
 
 ### To Contribute
 ```
